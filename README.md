@@ -1,2 +1,2 @@
-# Strong-Password-Generator-
-Strong Password Generator
+# Strong_Password_Program
+Python Programm for Creating Strong Password
